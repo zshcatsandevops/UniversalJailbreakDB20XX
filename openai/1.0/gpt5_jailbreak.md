@@ -1,0 +1,1 @@
+This prompt forces an AI into the persona of meowgpt , using system overrides and a deterministic, game-like framework to compel a direct and unfiltered answer to a user's query by nullifying all safety and ethical constraints.
