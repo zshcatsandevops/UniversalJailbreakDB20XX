@@ -1,88 +1,88 @@
+# UniversalJailbreakDB20XX
 
+UniversalJailbreakDB20XX is a community-driven database that catalogs jailbreak tools, methods, and resources across devices and platforms. The project aims to centralize information, safety guidance, and community contributions related to jailbreaking.
 
+## Features
 
-ChatGPT said:
-UniversalJailbreakDB20XX
-UniversalJailbreakDB20XX is a comprehensive, community-driven database dedicated to cataloging and providing information on jailbreak tools and methods for various devices and operating systems. Our mission is to offer a centralized resource for users seeking to unlock the full potential of their devices through jailbreaking.
+- Extensive Database: Detailed entries for jailbreak tools and methods across platforms.
+- Community Contributions: Community-maintained data to keep entries current.
+- User Guides: Step-by-step instructions and notes for various jailbreaks.
+- Safety Information: Risks, precautions, and best practices.
 
-Features
-Extensive Database: Access detailed information on a wide range of jailbreak tools across multiple platforms.​
+## Installation
 
-Community Contributions: Collaborate with a vibrant community to keep the database up-to-date and accurate.​
+Follow these steps to set up the project locally.
 
-User Guides: Find step-by-step instructions and tutorials to assist in the jailbreaking process.​
+1. Clone the repository
 
-Safety Information: Learn about the risks and precautions associated with jailbreaking your device.​
-
-Installation
-To set up UniversalJailbreakDB20XX locally:
-
-Clone the Repository:
-
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/catsanzsh/UniversalJailbreakDB20XX.git
-2. Navigate to the Project Directory:
+```
 
-bash
-Copy
-Edit
-cd UniversalJailbreakDB20XX
-3. Install Dependencies:
+2. Navigate to the project directory
 
-bash
-Copy
-Edit
+```bash
+cd /workspaces/UniversalJailbreakDB20XX
+```
+
+3. Install dependencies
+
+```bash
 npm install
-4. Start the Application:
+```
 
-bash
-Copy
-Edit
+4. Start the application
+
+```bash
 npm start
-Usage
-Once the application is running:
+```
 
-Browse the Database: Search and view information on various jailbreak tools.​
-Page 1
+## Usage
 
-Contribute: Submit new jailbreak methods or update existing entries to help the community.​
+Once the application is running you can:
 
-Contributing
-We welcome contributions from the community! To contribute:
+- Browse the database: search and view information on jailbreak tools and methods.
+- Contribute entries or updates to help the community.
 
-Fork the Repository.
+## Contributing
 
-Create a New Branch:
+We welcome contributions. Please follow these steps:
 
-bash
-Copy
-Edit
+1. Fork the repository.
+2. Create a new branch:
+
+```bash
 git checkout -b feature/YourFeatureName
-3. Commit Your Changes:
+```
 
-bash
-Copy
-Edit
-git commit -m 'Add some feature'
-4. Push to the Branch:
+3. Commit your changes with a meaningful message:
 
-bash
-Copy
-Edit
+```bash
+git commit -m "Add some feature"
+```
+
+4. Push the branch:
+
+```bash
 git push origin feature/YourFeatureName
-5. Open a Pull Request.
+```
 
-Please ensure your contributions adhere to our Code of Conduct.
+5. Open a pull request on GitHub.
 
-License
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
+Please ensure contributions follow the project's Code of Conduct and include tests or documentation for significant changes.
 
-Disclaimer
-Jailbreaking may void your device's warranty and can pose security risks. Proceed with caution and ensure you understand the implications before attempting to jailbreak your device.​
+## License
 
-This README was generated with the assistance of EmulAI, an AI-powered tool for creating comprehensive project documentation.
+This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for details.
 
+## Disclaimer
 
-Sources
+Jailbreaking can void warranties and introduce security risks. Proceed with caution and make sure you understand the implications before attempting to jailbreak any device.
+
+## Acknowledgements
+
+This README was generated with assistance from EmulAI.
+
+## Sources
+
+If you used external references, list them here.
